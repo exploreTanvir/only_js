@@ -1,0 +1,23 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  font-size: 2rem;
+}
+h1,
+span {
+  font-family: roboto;
+  font-size: 3rem;
+  display: inline-block;
+}
+span {
+  padding: 8px;
+  border-radius: 15px;
+  color: white;
+  margin-left: 2rem;
+}
+.box {
+  height: 300px;
+  width: 200px;
+}
